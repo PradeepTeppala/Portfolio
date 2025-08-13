@@ -44,6 +44,7 @@ nav ul li {
 nav ul li a {
   color: #fff;
   text-decoration: none;
+  font-weight: bold;
   font-size: 18px;
   position: relative;
 }
@@ -64,7 +65,7 @@ nav ul li a:hover::after {
 }
 
 .header-text {
-  margin-top: 20%;
+  margin-top: 25%;
   font-size: 30px;
 }
 
@@ -359,7 +360,7 @@ nav .fa-solid {
     background-image: url(Images/Phone-Background.png);
   }
   .header-text {
-    margin-top: 100%;
+    margin-top: 120%;
     font-size: 16px;
   }
   .header-text h1 {
