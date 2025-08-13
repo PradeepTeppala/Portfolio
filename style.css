@@ -15,7 +15,7 @@ body {
 #header {
   width: 100%;
   height: 100vh;
-  background-image: url(images/Background.png);
+  background-image: url(images/background.png);
   background-position: center;
   background-size: cover;
 }
@@ -357,25 +357,25 @@ nav .fa-solid {
 }
 @media only screen and (max-width: 600px) {
   #header {
-    background-image: url(images/PhoneBackground.jpg);
+    background-image: url(images/phonebackground.jpg);
   }
   #about {
-    background-image: url(images/PhoneBackground2.jpg);
+    background-image: url(images/phonebackground2.jpg);
     background-size: cover;
     background-position: center;
   }
   #services {
-    background-image: url(images/PhoneBackground3.jpg);
+    background-image: url(images/phonebackground3.jpg);
     background-size: cover;
     background-position: center;
   }
   #Projects {
-    background-image: url(images/PhoneBackground4.jpg);
+    background-image: url(images/phonebackground4.jpg);
     background-size: cover;
     background-position: center;
   }
   #Contact {
-    background-image: url(images/PhoneBackground5.jpg);
+    background-image: url(images/phonebackground5.jpg);
     background-size: cover;
     background-position: center;
   }
