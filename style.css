@@ -78,7 +78,7 @@ nav ul li a:hover::after {
   color: #ff004f;
 }
 
-/*=============================================================  About Me Section =================================================================*/
+/*===========================================  About Me Section =================================================================*/
 
 #about {
   padding: 80px 0;
@@ -144,7 +144,7 @@ nav ul li a:hover::after {
   display: block;
 }
 
-/*============================================================ My Services Section ================================================================*/
+/*============================================ My Services Section ================================================================*/
 
 #services {
   padding: 30px 0;
@@ -180,7 +180,7 @@ nav ul li a:hover::after {
   transform: translateY(-10px);
 }
 
-/*=========================================================== My Projects Section ================================================================*/
+/*========================================= My Projects Section ================================================================*/
 
 #Projects {
   padding: 50px 0;
@@ -257,7 +257,7 @@ nav ul li a:hover::after {
   background: #ff004f;
 }
 
-/*============================================================= Contact Me Section ================================================================*/
+/*====================================== Contact Me Section ================================================================*/
 .contact-left {
   flex-basis: 35%;
 }
@@ -351,33 +351,13 @@ form btn2 {
 .copyright i {
   color: #ff004f;
 }
-/*==================================================== Mobile Responsive Design ===================================================================*/
+/*========================================== Mobile Responsive Design ===================================================================*/
 nav .fa-solid {
   display: none;
 }
 @media only screen and (max-width: 600px) {
   #header {
     background-image: url(images/phonebackground.jpg);
-  }
-  #about {
-    background-image: url(images/phonebackground2.jpg);
-    background-size: cover;
-    background-position: center;
-  }
-  #services {
-    background-image: url(images/phonebackground3.jpg);
-    background-size: cover;
-    background-position: center;
-  }
-  #Projects {
-    background-image: url(images/phonebackground4.jpg);
-    background-size: cover;
-    background-position: center;
-  }
-  #Contact {
-    background-image: url(images/phonebackground5.jpg);
-    background-size: cover;
-    background-position: center;
   }
   .header-text {
     margin-top: 120%;
